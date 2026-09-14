@@ -1,0 +1,10 @@
+coding is  23  and x3 
+coding is 45  but x5 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com
+git push -u origin main
+remote changes orgin main 
+orgin is main
